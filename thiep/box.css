@@ -186,7 +186,7 @@
 .box-container{
   height: 800px;
   width: 100%;
-  background-image: url('./anh/IMG_5410.webp');
+  background-image: url('./anh/IMG_5613.webp');
   background-position: bottom;
   background-size: contain;
   background-repeat: no-repeat;
@@ -203,7 +203,7 @@
 } 
 
 .img-top{
-  width: 70%;
+  width: 80%;
   margin-bottom: 20px;
 }
 
@@ -513,7 +513,7 @@
     
     .box-content{
       display: flex;
-      flex-direction: column;
+      /* flex-direction: column; */
       justify-content: center;
       align-items: center;
     }
@@ -527,8 +527,8 @@
       font-size: 20px;
     }
     .box-container{
-      margin-top: 20px;
-      height: 850px;
+      /* margin-top: 20px; */
+      height: 900px;
     }
     .box-top{
       margin-top: 80px;
